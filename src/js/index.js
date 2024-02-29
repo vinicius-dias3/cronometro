@@ -18,7 +18,7 @@ let isPaused = false
 function startCount(){
     intervalId = setInterval(() =>{
         if(!isPaused){
-            milliseconds += 100
+            milliseconds += 10
             if(milliseconds == 1000){
                 milliseconds = 0
                 seconds ++

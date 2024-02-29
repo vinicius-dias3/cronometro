@@ -8,6 +8,7 @@ Este projeto consiste em criar um cronômetro e todas as suas funcionalidades.
 
 ### Demonstração em vídeo curto
 ![demonstracao](./src/images/demonstracao-cronometro.gif)
+
 ``Acelerei o cronômetro para demonstrar melhor o projeto.``
 
 ### Detalhes
